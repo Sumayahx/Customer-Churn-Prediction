@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning web application that predicts customer churn for a telecommunications company. Built with Python, Scikit-Learn, and Streamlit, featuring robust data pipelines and hyperparameter tuning.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_LIVE_STREAMLIT_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-edscrvtxbwi5oezqdewecg.streamlit.app/)
 
 ---
 
